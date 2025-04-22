@@ -559,3 +559,6 @@ async function xempStart() {
     xemp.downloadAndSaveMediaMessage = async (message) => {
   // your code here
 };
+app.get('/route', (req, res) => {
+  res.send("Hello");
+});
