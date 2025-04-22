@@ -1,6 +1,6 @@
 // Tanjiro V2 by Nerdk-tech
 
-# Owner ? : LIBERTY
+// Owner: LIBERTY
 
 
 */
