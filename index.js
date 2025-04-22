@@ -1,9 +1,11 @@
-// Tanjiro V2 by Nerdk-tech
-
+// Tanjiro V2 Bot
+// Created by Nerdk-tech
 // Owner: LIBERTY
 
 
-*/
+
+
+//
 require('./database/config');
 const {
     default: xempConnect,
