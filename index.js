@@ -556,4 +556,6 @@ async function xempStart() {
         return buffer;
     };
     
-    xemp.downloadAndSaveMediaMessage = async (message
+    xemp.downloadAndSaveMediaMessage = async (message) => {
+  // your code here
+};
