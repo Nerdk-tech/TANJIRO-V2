@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: tanjiro-v2-bot
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
+    plan: free
